@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.custom{
+    background-color: #EDC6B1;
+}
